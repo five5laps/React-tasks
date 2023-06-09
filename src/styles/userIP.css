@@ -1,0 +1,13 @@
+.userIP {
+    font-weight: normal;
+}
+
+.userIP__text {
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+}
+
+i {
+    color: #dd00ff;
+}

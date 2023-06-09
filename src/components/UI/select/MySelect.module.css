@@ -1,0 +1,12 @@
+.mySelect {
+    display: flex;
+    justify-content: right;
+}
+
+select {
+    padding: 2px 5px 0 5px;
+    font-size: 15px;
+    color: #04836e;
+    background: transparent;
+    border: 1px solid #04836e;
+}
